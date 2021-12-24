@@ -3,14 +3,14 @@
 
 
 <h2>The following image of Elon Musk contains an image of Vladmir Putin within its signature.</h2>
-<img src="https://i.imgur.com/9gWFVuW.png">
+<img src="https://i.imgur.com/9gWFVuW.png" width=500 height=500>
 <h2>Here is the extraction of Putin from the above image</h2>
-<img src="https://i.imgur.com/vcVW9rW.png">
+<img src="https://i.imgur.com/vcVW9rW.png" width = 500 height=500>
 
 
 
 <h2>The following image of cool doge contains the ENTIRETY of Shakespeare's Macbeth in its signature.</h2>
-<img src="https://i.imgur.com/qlXNTq3.png">
+<img src="https://i.imgur.com/qlXNTq3.png" width=500 height=500>
 <h2>Here is what was extracted from the above image</h2>
 
 [The Tragedie of Macbeth by William Shakespeare 1603]
